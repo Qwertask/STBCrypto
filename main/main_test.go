@@ -122,6 +122,7 @@ func TestOneshot_key_gen(t *testing.T) {
 
 }
 
+// Check eds_gen.go
 func TestEds_gen(t *testing.T) {
 	d := "1F66B5B84B7339674533F0329C74F21834281FED0732429E0C79235FC273E269"
 	X := "B194BAC80A08F53B366D008E58"
